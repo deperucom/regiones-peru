@@ -7,6 +7,7 @@ Repositorio informativo sobre la información de regiones del Perú publicada po
 ## Enlaces
 
 - **Infoperu / regiones:** http://www.deperu.com/infoperu/
+- **Página de la API:** https://www.deperu.com/api/
 - **Endpoint JSON:** https://deperu.com/api/rest/regionesPeru.json
 - **Contacto DePeru.com:** https://deperu.com/contacto
 
